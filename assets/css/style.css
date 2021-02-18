@@ -237,11 +237,9 @@ section {
 }
 
 .trainer {
-    overflow: 900px;
-    margin: 0 auto 20px auto;
+    margin: 20px;
     background: #024e76;
     color: #fce138;
-    overflow: auto;
     flex: 1;
 }
 
@@ -250,7 +248,7 @@ section {
 }
 
 .trainer-bio {
-    padding: 25%;
+    padding: 25px;
     line-height: 1.3;
 }
 
